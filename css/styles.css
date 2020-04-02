@@ -29,3 +29,17 @@
   background:#4CAF50;
   border: 1px solid #9ba6af;
  }
+
+ .__btn{
+   position:absolute;
+   top: 100px;
+   right: 70px;
+   color: white;
+   border: 1px solid white;
+ }
+ .__btn:hover{
+  color: white !important;
+  border: 1px solid black;
+  background-color: #5ee263;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
