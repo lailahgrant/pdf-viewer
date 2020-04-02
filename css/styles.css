@@ -1,0 +1,31 @@
+ h3 {
+  font-weight: 300;
+  margin-bottom: 10px;
+ }
+/* div {
+  margin-bottom: 20px;
+ }*/
+ p {
+  text-align: center;
+ }
+
+ i{
+  display: inline-block; text-align: center;
+  color: #354353;
+  margin: 0 0 20px 100px;
+ }
+
+ div.card {
+  pointer:cursor;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ ._btn-modal {
+  margin-top: 70px;
+  margin-left:70px;
+  color: white;
+ }
+ ._btn-modal:hover {
+  /*background: #5ee263;*/
+  background:#4CAF50;
+  border: 1px solid #9ba6af;
+ }
